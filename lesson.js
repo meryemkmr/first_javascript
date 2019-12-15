@@ -172,7 +172,7 @@ console.log(words.some (word => {
   return word.length < 6;
 }));
 
-
+//  Hello "Meryem! "
 
 
 
