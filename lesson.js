@@ -175,7 +175,7 @@ console.log(words.some (word => {
 //  Hello "Meryem! "
 // console.log('First Javascript");
 // var i = 0;
-
+// hello add me please!
 
 
 
