@@ -173,7 +173,7 @@ console.log(words.some (word => {
 }));
 
 //  Hello "Meryem! "
-
+// console.log('First Javascript");
 
 
 
