@@ -164,13 +164,7 @@
 //   return animal.charAt(3);
 // });
 
-// const words = ['unique', 'uncanny', 'pique', 'oxymoron', 'guise'];
 
-// // Something is missing in the method call below
-
-// console.log(words.some (word => {
-//   return word.length < 6;
-// }));
 
 //  Hello "Meryem! "
 // console.log('First Javascript");
